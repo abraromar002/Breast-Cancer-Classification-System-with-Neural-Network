@@ -64,7 +64,7 @@ Visualization of training curves (loss & accuracy)
 bash
 pip install pandas numpy scikit-learn matplotlib tensorflow
 🚀 How to Run
-bash
+bass
 
 # Clone the repository or open the notebook
 
